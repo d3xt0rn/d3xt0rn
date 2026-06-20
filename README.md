@@ -13,7 +13,7 @@ im learming rust<br>and im bit dumb <br>im using linux and hate Systemd<br>im us
 - 20gb ddr4
 - **`250gb`** SSD (partions: `windows10 (250gb)`)<br>
 ○ outside HDD (**`500gb`**) (partions: `cachyOs-crashed(200gb)`, `data(300gb)` )<br>
-○ outside SSD (**`250GB`**) (partions: `gentoo (250gb)`)
+○ outside SSD (**`250GB`**) (partions: `artix (250gb)`, `windows10 (250gb`)
 
 # 💻 Laptop 2 stat
 - i5-5300u
