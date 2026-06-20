@@ -16,13 +16,13 @@
 - 20gb ddr4
 - **`250gb`** SSD (partions: `windows10 (250gb)`)<br>
 ○ outside HDD (**`500gb`**) (partions: `cachyOs-crashed(200gb)`, `data(300gb)` )<br>
-○ outside SSD (**`250GB`**) (partions: `artix (250gb)`, `windows10 (250gb`)
+○ outside SSD (**`250GB`**) (partions: `gentoo (250gb)`)
 
 # 💻 Laptop 2 stats - model: dell latitude E5250
 - i5-5300u
 - intel HD Graphics 5500
 - 12gb ddr3
-- **`500gb`** HDD (partions: `gentoo (250gb)`)
+- **`500gb`** HDD (partions: `artix (250gb)`, `windows10 (250gb`)
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=d3xt0rn&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
