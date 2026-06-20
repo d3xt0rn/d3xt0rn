@@ -7,7 +7,7 @@ im learming rust<br>and im bit dumb <br>im using linux and hate Systemd<br>im us
 # 💻 OS stack
 >![Windows 10](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/250px-Windows_10_Logo.svg.png)<br>![Gentoo](https://assets.gentoo.org/tyrian/v1/site-logo.svg)<br>![Artix](https://cdn.discordapp.com/emojis/1501590448916140123.webp?size=80)
 
-# 💻 Laptop 1 stat
+# 💻 Laptop 1 stat - model: lenovo thinkpad t470s
 - i5-6300u
 - intel UHD graphic 520
 - 20gb ddr4
@@ -15,7 +15,7 @@ im learming rust<br>and im bit dumb <br>im using linux and hate Systemd<br>im us
 ○ outside HDD (**`500gb`**) (partions: `cachyOs-crashed(200gb)`, `data(300gb)` )<br>
 ○ outside SSD (**`250GB`**) (partions: `artix (250gb)`, `windows10 (250gb`)
 
-# 💻 Laptop 2 stat
+# 💻 Laptop 2 stat - model: dell latitude E5250
 - i5-5300u
 - intel HD Graphics 5500
 - 12gb ddr3
