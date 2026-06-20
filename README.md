@@ -1,5 +1,6 @@
 # 💫 About Me:
 im learming rust<br>and im bit dumb <br>im using linux and hate Systemd
+im use gentoo btw :3
 
 
 # 💻 Tech Stack:
